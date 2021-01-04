@@ -1,0 +1,23 @@
+{
+  "name": "hello_orm",
+  "version": "1.0.0",
+  "description": "mysql with ORM on nodejs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimerneige/hello_orm.git"
+  },
+  "author": "AimerNeige",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aimerneige/hello_orm/issues"
+  },
+  "homepage": "https://github.com/aimerneige/hello_orm#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "orm": "^5.0.5"
+  }
+}
