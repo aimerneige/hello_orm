@@ -14,6 +14,8 @@ For Learning use.
 
 ## Start
 
+Create `db.js` at `/src/config/db.js` to add your database config. Just like the `db.example.js`
+
 ```bash
 npm install
 cd src/
